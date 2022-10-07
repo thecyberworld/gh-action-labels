@@ -1,15 +1,15 @@
 [
   {
     "name": "good first issue",
-    "color": "7f0799"
+    "color": "5319E7"
   },
   {
     "name": "help wanted",
-    "color": "7f0799"
+    "color": "5319E7"
   },
   {
     "name": "duplicate",
-    "color": "7f0799"
+    "color": "B60205"
   },
   {
     "name": "⛔ status: discarded",
@@ -33,7 +33,7 @@
   },
   {
     "name": "💬 talk: discussion",
-    "color": "f9bbe5"
+    "color": "FEF2C0"
   },
   {
     "name": "💻 aspect: code",
@@ -42,10 +42,6 @@
   {
     "name": "📄 aspect: text",
     "color": "04338c"
-  },
-  {
-    "name": "🔒 staff only",
-    "color": "7f0799"
   },
   {
     "name": "🕹 aspect: interface",
@@ -86,10 +82,6 @@
   {
     "name": "🤖 aspect: dx",
     "color": "04338c"
-  },
-  {
-    "name": "🧹 status: ticket work required",
-    "color": "666666"
   },
   {
     "name": "🙅 status: discontinued",
