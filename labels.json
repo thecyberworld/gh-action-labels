@@ -92,6 +92,14 @@
     "color": "666666"
   },
   {
+    "name": "\uD83E\uDD29 status : Up for Grab",
+    "color": "5319E7"
+  },
+  {
+    "name": "\uD83E\uDD57 status: ready for merge",
+    "color": "0E8A16"
+  },
+  {
     "name": "no-issue-activity",
     "color": "ededed"
   },
