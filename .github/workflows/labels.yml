@@ -18,3 +18,4 @@ jobs:
         github-token: ${{ secrets.GITHUB_TOKEN }}
         owner-name: 'Thecyberworld'
         repository-name: 'gh-action-labels'
+        force: true
