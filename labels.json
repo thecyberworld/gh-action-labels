@@ -96,6 +96,10 @@
     "color": "0E8A16"
   },
   {
+    "name": "✔ status: review complete",
+    "color": "0E8A16"
+  },
+  {
     "name": "no-issue-activity",
     "color": "ededed"
   },
